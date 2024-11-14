@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: "/Fairway-computers-Demo",
+  // basePath: "/Fairway-computers-Demo",
   images: {
     unoptimized: true,
   },
