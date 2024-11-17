@@ -8,7 +8,7 @@ export default function Welcome() {
     >
       <div className="max-w-[914px] px-6 text-center flex flex-col gap-8 items-center justify-center">
         <h1 className="text-5xl md:text-8xl font-bold	text-gray">
-          &quot;Revolutionizing Business Solutions with Innovation&quot;
+          Revolutionizing Business Solutions with Innovation;
         </h1>
         <p className="text-white text-sm leading-6 font-general-sans">
           At Fair Computers, our experts are your best allies. We&apos;re here
