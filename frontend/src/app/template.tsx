@@ -35,22 +35,22 @@ const ITEMS = [
   },
   {
     name: "Postings",
-    link: "/contact",
+    link: "/postings",
     children: [
       {
         name: "Company",
-        link: "/contact/company",
+        link: "/postings/company",
         description:
           "Create or update your company profile to start posting job.",
       },
       {
         name: "Job",
-        link: "/contact/job",
+        link: "/postings/job",
         description: "Fill out the details below to create a job posting.",
       },
       {
         name: "Profile",
-        link: "/contact/profile",
+        link: "/postings/profile",
         description:
           "Create or update your personal profile, upload your resume, and start applying to job postings.",
       },
@@ -66,7 +66,7 @@ const ITEMS = [
   },
   {
     name: "Contact Us",
-    link: "/about",
+    link: "/contact",
   },
 ];
 
