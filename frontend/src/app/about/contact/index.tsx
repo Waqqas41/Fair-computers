@@ -46,7 +46,7 @@ export default function Contact() {
             </div>
             <div className="text-dark font-semibold justify-start">
               <div className="text-xs text-left">Mail</div>
-              <a className="text-xl" href="mailto:info@faircomputers.com" title="email">
+              <a className="text-xl" href="mailto:info@faircomputerscorp.com" title="email">
                 info@faircomputers.com
               </a>
             </div>
