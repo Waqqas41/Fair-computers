@@ -26,7 +26,7 @@ export default function Contact() {
             <div className="text-dark font-semibold">
               <div className="text-xs text-left">Phone</div>
               <a className="text-xl" href="tel:4373454481" title="phone">
-              +1(437)3454481
+              +1 (437)-345-4481
               </a>
             </div>
           </div>
