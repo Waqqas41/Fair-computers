@@ -1,4 +1,4 @@
-import Contact from "./contact";
+import Contact from "../contact-us";
 import Form from "./form";
 import Questions from "./questions";
 
