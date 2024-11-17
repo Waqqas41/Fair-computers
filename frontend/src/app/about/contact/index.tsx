@@ -25,8 +25,8 @@ export default function Contact() {
             </div>
             <div className="text-dark font-semibold">
               <div className="text-xs text-left">Phone</div>
-              <a className="text-xl" href="tel:(123) 456-7890" title="phone">
-                (123) 456-7890
+              <a className="text-xl" href="tel:4373454481" title="phone">
+              +1(437)3454481
               </a>
             </div>
           </div>
@@ -46,8 +46,8 @@ export default function Contact() {
             </div>
             <div className="text-dark font-semibold justify-start">
               <div className="text-xs text-left">Mail</div>
-              <a className="text-xl" href="mailto:hi@faircomp.ca" title="email">
-                hi@faircomp.ca
+              <a className="text-xl" href="mailto:info@faircomputers.com" title="email">
+                info@faircomputers.com
               </a>
             </div>
           </div>
