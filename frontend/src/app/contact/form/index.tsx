@@ -27,7 +27,7 @@ export default function Form() {
           <div className="text-dark font-semibold">
             <div className="text-xs text-left">Phone</div>
             <a className="text-xl" href="tel:(123)456-7890" title="phone">
-              (123) 456-7890
+            +1 (437)-345-4481
             </a>
           </div>
         </div>
@@ -48,7 +48,7 @@ export default function Form() {
           <div className="text-dark font-semibold justify-start">
             <div className="text-xs text-left">Mail</div>
             <a className="text-xl" href="mailto:hi@faircomp.ca" title="email">
-              hi@faircomp.ca
+            info@faircomputers.com
             </a>
           </div>
         </div>
